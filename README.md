@@ -13,3 +13,7 @@ Libraries used:
 - Chalk
 - Figma
 - Readline-Sync
+
+<h3>Preview: </h3>
+
+![image](harry-potter-quiz-preview.PNG)
