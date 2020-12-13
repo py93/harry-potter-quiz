@@ -10,6 +10,6 @@ Features:
 Play here: [Alohomora](https://repl.it/@hermoine93/Harry-Potter-Quiz#index.js?embed=1&output=1)
 
 Libraries used:
--Chalk
--Figma
--Readline-Sync
+- Chalk
+- Figma
+- Readline-Sync
